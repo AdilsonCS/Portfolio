@@ -57,7 +57,7 @@ export const Services: React.FC = () => {
                   Agentes de IA<br/>Personalizados
                 </h3>
                  <p className="text-brand-muted mb-6 line-clamp-2">
-                    Isa, sua atendente 24/7. Atende, agenda e qualifica leads automaticamente.
+                    Assistente 24/7. Atende, agenda e qualifica leads automaticamente com linguagem natural.
                 </p>
                 <button className="px-6 py-2 rounded-full bg-white/10 backdrop-blur-md text-white text-xs font-bold tracking-widest flex items-center gap-2 hover:bg-white/20 transition-colors uppercase border border-white/20">
                     Saiba Mais <ArrowUpRight size={14} />

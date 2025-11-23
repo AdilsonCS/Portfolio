@@ -42,7 +42,7 @@ export const Contact: React.FC = () => {
                 </div>
               </div>
               <h3 className="text-2xl font-bold text-white">Recebido!</h3>
-              <p className="text-brand-muted">A Isa (minha agente) ou eu entraremos em contato pelo WhatsApp em breve.</p>
+              <p className="text-brand-muted">Meu assistente virtual ou eu entraremos em contato pelo WhatsApp em breve.</p>
               <button 
                 onClick={() => setStatus('idle')} 
                 className="text-brand-primary hover:text-brand-secondary underline text-sm mt-4 transition-colors"

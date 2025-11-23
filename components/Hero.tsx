@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
               className="px-8 py-4 rounded-full glass-panel text-white font-semibold hover:bg-white/10 transition-all flex items-center gap-2 border border-white/10"
             >
               <Bot size={18} className="text-brand-primary" />
-              <span>Fale com a Isa</span>
+              <span>Fale com a IA</span>
             </a>
           </div>
         </FadeIn>

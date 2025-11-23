@@ -18,10 +18,10 @@ export const CaseStudy: React.FC = () => {
                     CASE DE SUCESSO
                 </div>
                 <h2 className="text-4xl md:text-5xl font-bold leading-tight text-white">
-                Isa: Agente com <span className="text-brand-primary">Memória Contextual</span>
+                Agente de IA com <span className="text-brand-primary">Memória Contextual</span>
                 </h2>
                 <p className="text-lg text-brand-muted leading-relaxed">
-                O maior problema dos chatbots comuns é esquecer o que foi dito há 5 minutos. A Isa resolve "conversas picadas" usando um <strong>Buffer de Memória</strong> inteligente.
+                O maior problema dos chatbots comuns é esquecer o que foi dito há 5 minutos. Nossos Agentes resolvem "conversas picadas" usando um <strong>Buffer de Memória</strong> inteligente.
                 </p>
 
                 <div className="space-y-6 mt-8">
@@ -73,7 +73,7 @@ export const CaseStudy: React.FC = () => {
                                     <BotIcon />
                                 </div>
                                 <div>
-                                    <p className="text-white font-bold text-sm">Isa (Assistente)</p>
+                                    <p className="text-white font-bold text-sm">Assistente Virtual</p>
                                     <div className="flex items-center gap-1">
                                         <span className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse"></span>
                                         <p className="text-brand-muted text-[10px]">Online via n8n</p>

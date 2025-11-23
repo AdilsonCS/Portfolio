@@ -16,7 +16,7 @@ export const FloatingWhatsApp: React.FC = () => {
       <div 
         className={`bg-brand-surfaceHighlight border border-brand-accentGreen/30 text-white text-xs font-medium px-3 py-1.5 rounded-lg shadow-xl transition-all duration-300 ${isHovered ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-4 pointer-events-none'}`}
       >
-        Converse com a Isa 🤖
+        Converse com a IA 🤖
       </div>
       
       <div className="relative">
